@@ -1,1 +1,1 @@
-# AWS-Bedrock-PDF
+# AWS-Bedrock
